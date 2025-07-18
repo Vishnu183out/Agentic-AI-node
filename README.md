@@ -26,10 +26,11 @@ This is a Node.js backend server built to integrate with Adobe Experience Manage
 ## 🛠 clone repository
 
 
-git clone https://github.com/Vishnu183out/Agentic-AI-node.git
-npm install
+Step 1. git clone https://github.com/Vishnu183out/Agentic-AI-node.git
 
-Create a .env file
+Step 2. npm install
+
+step 3. Create a .env file
 Inside the root folder, create a .env file and add the following variables:
 
 env
